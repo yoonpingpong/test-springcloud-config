@@ -1,0 +1,6 @@
+gateway:
+  ip: 0.0.0.0
+
+token:
+  expiration: 86400000
+  secret: abcedfghijklmnopqrstuvwxyz0123456789_dev
